@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FIRZA_1202150018_MODUL4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+
+    <string name="cari_gambar">Cari Gambar</string>
+
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+
+    <string name="masukkan_url_gambar">Masukkan URL Gambar</string>
+
+    <string name="klik_mencari_gambar">Klik untuk mencari gambar</string>
+
+    <string name="link_gambar">https://www.famouslogos.us/images/android-logo.jpg</string>
+
+    <!-- buat array -->
+
+    <string-array name="names">
+
+        <item>Firza</item>
+
+        <item>Halim</item>
+
+        <item>Dimas</item>
+
+        <item>Afif</item>
+
+        <item>Fahmi</item>
+
+        <item>Arkan</item>
+
+        <item>Fadel</item>
+
+        <item>Nanda</item>
+
+        <item>Indah</item>
+
+        <item>Kesya</item>
+
+        <item>Astrid</item>
+
+    </string-array>
+</resources>
